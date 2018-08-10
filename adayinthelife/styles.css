@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat|Open+Sans|Roboto+Condensed|Nunito+Sans');
+
+body {
+  background-color: #f2dfdc
+}
+#header {
+  font-family: 'nunito sans', sans-serif;
+  text-align: center;
+  background-color: white;
+  border: 3px black;
+  border-radius: 4px;
+}
+.section {
+  font-family: 'Montserrat', sans-serif;
+}
+p {
+  font-family: 'open sans', sans-serif;
+}
+li {
+  font-family: 'open sans', sans-serif;
+}
+.time {
+  font-family: 'source sans pro', sans-serif;
+  font-weight: lighter;
+}
